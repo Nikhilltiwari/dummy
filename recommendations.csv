@@ -1,0 +1,37 @@
+Seriousness,Problem,Solution
+High,Network connectivity,Reboot router
+Medium,Software compatibility,Update software
+Low,Battery draining quickly,Check for background apps
+High,System overheating,Clean the cooling system
+Low,Slow computer performance,Remove unnecessary files
+Medium,Data loss,Backup data regularly
+High,Virus infection,Run antivirus scan
+Low,Printer not working,Check for paper jams
+Medium,Application crashes,Reinstall the application
+High,Security breach,Change passwords
+Low,Bluetooth connectivity,Check device compatibility
+Medium,Email not syncing,Update email settings
+High,Hard drive failure,Replace the hard drive
+Low,Keyboard malfunction,Clean or replace the keyboard
+Medium,Inconsistent Wi-Fi signal,Relocate router or use a Wi-Fi extender
+High,Operating system crash,Reinstall the operating system
+Low,Screen brightness fluctuating,Adjust screen settings
+Medium,Printer low on ink,Replace or refill ink cartridges
+High,Unauthorized access attempts,Strengthen firewall settings
+Low,Mouse not responding,Replace batteries or reconnect mouse
+Medium,Slow internet speed,Reset or upgrade internet plan
+High,Corrupted system files,Perform a system restore
+Low,No sound from speakers,Check audio settings and connections
+Medium,Webcam not functioning,Update webcam drivers
+High,Continuous software crashes,Check for system hardware issues
+Low,Mobile app not updating,Clear app cache or update manually
+Medium,Syncing issues with cloud storage,Check account settings and connectivity
+High,Electrical surges causing damage,Use surge protectors
+Low,Inaccurate touchpad response,Calibrate or replace the touchpad
+Medium,Frequent browser crashes,Clear browser cache or reinstall
+High,Loss of critical data,Implement robust data recovery plan
+Low,External drive not recognized,Check drive connections and format
+Medium,Computer fan noise,Clean fans or replace if faulty
+High,Ransomware attack,Disconnect from network and consult expert
+Low,Difficulty connecting to VPN,Reconfigure VPN settings
+Medium,Frequent system notifications,Adjust notification settings
